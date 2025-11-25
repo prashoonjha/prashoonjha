@@ -3,7 +3,7 @@
 
 - 🔭 Currently building **projects in software development and exploring practical applications of AI and data tools.**
 
-- 🌱 Currently learning **Python, Java, SQL, JavaScript and full-stack development concepts.**
+- 🌱 Currently learning **Python, Java, JavaScript and full-stack development concepts.**
 
 - 👯 I’m looking to collaborate on **Full-stack development, AI-focused projects, and any meaningful tech initiatives.**
 
